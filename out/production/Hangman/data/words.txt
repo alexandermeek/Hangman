@@ -1,0 +1,13 @@
+House
+Window
+Mouse
+Snowman
+Chair
+Floor
+Music
+Science
+Physics
+Candle
+Christmas
+Plate
+Hangman
